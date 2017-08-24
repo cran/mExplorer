@@ -1,0 +1,13 @@
+fbf4588470356c8d3cb8208d7d22f3ec *DESCRIPTION
+c76ac6dda8ff25cb1a992952059d2b25 *NAMESPACE
+00202d8c72565b1a080bca382d340e37 *R/mExplorer.R
+efcc6d8d75772a4118c160be2295005d *data/mExplorer_small_test_data.RData
+c065f455dfef0a0209ab2f67554e9417 *data/yeastCCgenes.RData
+ab572daa54094a72db48b47933ed9d86 *data/yeastTFdata.RData
+38fd5cc67809359693dad51264486c35 *inst/extdata/small_gmt.gmt
+d72db814b0953252379d034eec8e1769 *man/mExplorer.Rd
+26a9f3a1110216d054a3824e10d71c0d *man/prepare_gmt_input.Rd
+0a43ebd731208cc5559228ab0f8072a3 *man/small_test_dframe.Rd
+b1d41c5ef34915e3b40a0ab096181256 *man/small_test_response_vec.Rd
+fecb85b0bb21240b414b5dde08f746f3 *man/yeastCCgenes.Rd
+86462e585a630d390ced1468bfdb030e *man/yeastTFdata.Rd
